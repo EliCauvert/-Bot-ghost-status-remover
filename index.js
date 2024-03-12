@@ -36,7 +36,7 @@ app.listen(port, () => {
 });
 
 
-const statusMessages = ["SkyInfinity.com","Check  our flight!"];
+const statusMessages = ["Staff Logs","Training System", "Sign up!"];
 
 
 let currentIndex = 0;
